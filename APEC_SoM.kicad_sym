@@ -1603,7 +1603,7 @@
 			(pin passive line
 				(at 91.44 -10.16 180)
 				(length 2.54)
-				(name "C_SHIELD_1"
+				(name "C_SHIELD_2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1621,7 +1621,7 @@
 			(pin input line
 				(at 91.44 -12.7 180)
 				(length 2.54)
-				(name "CIN1"
+				(name "CIN4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1639,7 +1639,7 @@
 			(pin input line
 				(at 91.44 -15.24 180)
 				(length 2.54)
-				(name "CIN2"
+				(name "CIN3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1657,7 +1657,7 @@
 			(pin input line
 				(at 91.44 -17.78 180)
 				(length 2.54)
-				(name "CIN3"
+				(name "CIN2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1675,7 +1675,7 @@
 			(pin input line
 				(at 91.44 -20.32 180)
 				(length 2.54)
-				(name "CIN4"
+				(name "CIN1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1693,7 +1693,7 @@
 			(pin passive line
 				(at 91.44 -22.86 180)
 				(length 2.54)
-				(name "C_SHIELD_2"
+				(name "C_SHIELD_1"
 					(effects
 						(font
 							(size 1.27 1.27)
