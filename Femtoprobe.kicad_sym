@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "APEC_SoM:Femtoprobe"
+		(property "Footprint" "Femtoprobe:Femtoprobe"
 			(at 0 0 0)
 			(effects
 				(font
